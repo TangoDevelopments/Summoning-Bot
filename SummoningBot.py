@@ -15,7 +15,7 @@ client = commands.Bot(command_prefix = '!', intents = intents)
 #channelID dedicated to summoning the user
 #Continuous joining and leaving can be very disruptive for the other members in the voice channel
 #so it's good to have a separate voice channel for joining and leaving
-summoningChannel = 983395816653877299
+summoningChannel = 983460263011430430
 
 #Indicates that the bot is ready
 @client.event
